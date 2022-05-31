@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cc31025a37e5d9c13022",
+    "revision": "74033299b8572ddb6dc6",
     "url": "/hcadvisory.com-public/css/app.5b84f873.css"
   },
   {
@@ -36,12 +36,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hcadvisory.com-public/img/card-blog4.9794d9cb.jpg"
   },
   {
-    "revision": "50b1efe86d417bd7f1155fc443eefead",
+    "revision": "1de07e65023ad58372c63263e091feb0",
     "url": "/hcadvisory.com-public/index.html"
   },
   {
-    "revision": "cc31025a37e5d9c13022",
-    "url": "/hcadvisory.com-public/js/app.657a010e.js"
+    "revision": "74033299b8572ddb6dc6",
+    "url": "/hcadvisory.com-public/js/app.66fbc551.js"
   },
   {
     "revision": "3cd076bc67bf71a18b2f",
